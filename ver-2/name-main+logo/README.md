@@ -4,6 +4,6 @@
 
 ## Inkscape instructions
 
-Refer to the `Inkscape` key of `name-main+logo_ver-2.json` for precise deatils of how to reconstruct the logo.
+Refer to the `_inkscape.json` parameters for precise details of how to reconstruct the logos.
 
 Note that all **positions** (x,y) and **dimensions** (width, height) apply _after_ rotation (which alters the raw values following transformation).
