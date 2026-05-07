@@ -1,8 +1,8 @@
-\# Main Logo (v2)
+# Main Logo (v2)
 
 
 
-\### Illustrator instructions
+### Illustrator instructions
 
 
 
