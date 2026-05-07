@@ -1,8 +1,8 @@
-\# Main Logo (v2)
+# Main Logo (v2)
 
 
 
-\### Inkscape instructions
+## Inkscape instructions
 
 Refer to the `Inkscape` key of `name-main+logo_ver-2.json` for precise deatils of how to reconstruct the logo.
 
