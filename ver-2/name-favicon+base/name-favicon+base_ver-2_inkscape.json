@@ -74,8 +74,10 @@
       ]
     }
   ],
-  "export": {
-    "format": "png",
-    "dpi": 1000
-  }
+  "export": [
+    {
+      "format": "png",
+      "dpi": 400
+    }
+  ]
 }
