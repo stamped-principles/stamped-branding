@@ -1,0 +1,83 @@
+{
+  "version": "1.4.2",
+  "document": {
+    "width": "80px",
+    "height": "27.5px",
+    "scale": "4px/unit",
+    "checkerboard": true
+  },
+  "border": {
+    "shape": "rectangle",
+    "position": {
+      "x": "2.25px",
+      "y": "2px"
+    },
+    "dimensions": {
+      "width": "76px",
+      "height": "23.5px"
+    },
+    "fill": {
+      "color": "transparent"
+    },
+    "stroke": {
+      "type": "flat",
+      "color": {
+        "r": 4,
+        "g": 42,
+        "b": 132
+      },
+      "width": "1px"
+    }
+  },
+  "text": {
+    "position": {
+      "x": "5px",
+      "y": "5px"
+    },
+    "font": {
+      "url": "https://fontsgeek.com/fonts/montserrat-extra-bold",
+      "family": "Montserrat Extra Bold",
+      "size": "10.5"
+    },
+    "color": {
+      "r": 4,
+      "g": 42,
+      "b": 132
+    },
+    "content": "STAMPED"
+  },
+  "transformations": [
+      {
+          "type": "rotate",
+          "objects": ["Border", "Text"],
+          "angle": "6.5deg",
+          "direction": "counterclockwise"
+      }
+  ],
+  "filters": [
+    {
+      "overlays": [
+        {
+          "noise": {
+            "type": "fractal",
+            "parameters": {
+              "horizontal_frequency": 10.0,
+              "vertical_frequency": 10.0,
+              "complexity": 5,
+              "variation": 50,
+              "dilation": 4.0,
+              "erosion": 0.1
+            },
+            "color": "transparent"
+          }
+        }
+      ]
+    }
+  ],
+  "export": [
+    {
+      "format": "png",
+      "dpi": 1000
+    }
+  ]
+}
