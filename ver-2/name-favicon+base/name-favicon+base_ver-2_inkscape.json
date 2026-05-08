@@ -44,7 +44,8 @@
       "g": 42,
       "b": 132
     },
-    "content": "S"
+    "content": "S",
+    "object_as_path": true
   },
   "transformations": [
       {
