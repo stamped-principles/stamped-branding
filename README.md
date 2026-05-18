@@ -13,7 +13,7 @@ machine-readable copyright and licensing information.
 - Branding assets (logos, SVGs, PNGs, favicons, READMEs):
   [CC-BY-4.0](LICENSES/CC-BY-4.0.txt) — reuse freely, please credit the
   STAMPED Principles project.
-- Vendored Montserrat font (`ver-2/name-montserrat+extra+bold_font.zip`):
+- Vendored Montserrat font (`fonts/name-montserrat+extra+bold_font.zip`):
   [SIL OFL-1.1](LICENSES/OFL-1.1.txt), © The Montserrat Project Authors.
 - Per-file declarations are in [`REUSE.toml`](REUSE.toml); full license texts
   are under [`LICENSES/`](LICENSES/).
