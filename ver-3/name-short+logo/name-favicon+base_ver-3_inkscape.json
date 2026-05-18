@@ -4,7 +4,15 @@
     "width": "20px",
     "height": "20px",
     "scale": "4px/unit",
-    "checkerboard": true
+    "checkerboard": false,
+    "background": {
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": "100%"
+      }
+    }
   },
   "border": {
     "shape": "rectangle",
