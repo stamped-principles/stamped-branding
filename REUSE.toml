@@ -10,7 +10,7 @@ SPDX-License-Identifier = "CC-BY-4.0"
 # Distributed under the SIL Open Font License 1.1 by its own authors;
 # the project's CC-BY-4.0 does not apply here.
 [[annotations]]
-path = "ver-2/name-montserrat+extra+bold_font.zip"
+path = ["fonts/name-montserrat+extra+bold_font.zip"]
 precedence = "override"
 SPDX-FileCopyrightText = "2011-2021 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)"
 SPDX-License-Identifier = "OFL-1.1"
